@@ -88,6 +88,7 @@ The quickest way to host a Beatbump instance is with [Docker](https://www.docker
 ```
 docker-compose up
 ```
+a
 
 The app will now be accessible from `https://localhost:443  /  http://localhost:3000`.
 
